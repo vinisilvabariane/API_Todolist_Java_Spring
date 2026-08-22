@@ -8,11 +8,11 @@ Com autenticação simples via UUID, o sistema permite a criação e manipulaç�
 
 ### Funcionalidades
 
-- 👤 **Gerenciamento de Usuários:** Cadastro e autenticação via UUID.
-- 📋 **CRUD de Tarefas:** Criação, edição, listagem e exclusão de tarefas diárias.  
-- 📅 **Validação de Datas:** Impede criação de tarefas com datas inválidas (fim antes do início).  
-- 🔒 **Segurança via Filtro:** Requisições são protegidas por um filtro customizado baseado no cabeçalho `Authorization`.  
-- ⚠️ **Tratamento de Erros:** Retorno padronizado para exceções e erros de validação.
+-  **Gerenciamento de Usuários:** Cadastro e autenticação via UUID.
+-  **CRUD de Tarefas:** Criação, edição, listagem e exclusão de tarefas diárias.  
+-  **Validação de Datas:** Impede criação de tarefas com datas inválidas (fim antes do início).  
+-  **Segurança via Filtro:** Requisições são protegidas por um filtro customizado baseado no cabeçalho `Authorization`.  
+-  **Tratamento de Erros:** Retorno padronizado para exceções e erros de validação.
 
 ---
 
